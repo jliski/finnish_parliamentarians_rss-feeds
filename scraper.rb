@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # encoding: utf-8
 
 require 'nokogiri'
